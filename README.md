@@ -1,10 +1,10 @@
-# **Perfect Rules**
+# **Proxy Rules**
 
-**阿尔忒弥斯实验室维护的代理分流配置方案。**
+**代理分流配置方案。**
 
 ## **🚀 快速开始**
 
-如果你是第一次使用 Perfect Rules，建议按照以下顺序选择：
+如果你是第一次使用 Proxy Rules，建议按照以下顺序选择：
 
 **① Clash Mi → ② Clash / Mihomo → ③ V2rayN**
 
@@ -20,7 +20,7 @@
 
 ## **① ⭐ Clash Mi 3.0：完美分流 + DNS 防泄漏——懒人版**
 
-Clash Mi 用户可以使用项目提供的 `clash_mi.js`，一键导入完整的 Perfect Rules 配置。
+Clash Mi 用户可以使用项目提供的 `clash_mi.js`，一键导入完整的 Proxy Rules 配置。
 
 Clash Mi 支持多平台，并采用统一的配置逻辑。
  如果希望在不同设备上使用一致的分流规则和 DNS 防泄漏方案，并且不想折腾，推荐优先使用 Clash Mi 版本。
@@ -57,7 +57,7 @@ Clash Mi 支持多平台，并采用统一的配置逻辑。
 **GitHub Raw：**
 
 ```text
-https://raw.githubusercontent.com/n0de-sudo/Perfect-Rules/main/Clash/Clash_mi.js
+https://raw.githubusercontent.com/n0de-sudo/Proxy-Rules/main/Clash/Clash_mi.js
 ```
 
 ⚠️ **重要：**
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/n0de-sudo/Perfect-Rules/main/Clash/Clash_mi.js
 
 ## **② ⭐ Clash / Mihomo 完美分流 3.0**
 
-Clash / Mihomo 用户可以使用最新的 **Perfect Rules 3.0**。
+Clash / Mihomo 用户可以使用最新的 **Proxy Rules 3.0**。
 
 核心配置已经整理完成，你不需要自己修改，复制粘贴即可使用。如需新增规则，请提交 Issue。
 
@@ -103,7 +103,7 @@ V2rayN 用户目前使用的是完美分流 2.0 版本。下载配置后，需�
 
 ## **🧩 分流内容**
 
-Perfect Rules 已经针对常见使用场景进行了分类：
+Proxy Rules 已经针对常见使用场景进行了分类：
 
 + 🇨🇳 国内网站 → **DIRECT**
 + 🌍 海外网站 → **代理**
@@ -126,7 +126,7 @@ Perfect Rules 已经针对常见使用场景进行了分类：
 
 ## **⭐ 支持项目**
 
-如果 **Perfect Rules** 对你有帮助，欢迎给项目一个 ⭐ Star。
+如果 **Proxy Rules** 对你有帮助，欢迎给项目一个 ⭐ Star。
 
 也欢迎提交 Issue 或 Pull Request，共同完善规则。
 
@@ -134,7 +134,7 @@ Perfect Rules 已经针对常见使用场景进行了分类：
 
 ## **🔄 更新说明**
 
-Perfect Rules 会持续维护。
+Proxy Rules 会持续维护。
 
 主要更新内容：
 
@@ -157,7 +157,7 @@ Perfect Rules 会持续维护。
 
 ------
 
-**Perfect Rules**
+**Proxy Rules**
 
 *Make complex routing simple.*
 
